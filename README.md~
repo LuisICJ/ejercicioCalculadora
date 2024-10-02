@@ -4,7 +4,7 @@ Esta es una simple calculadora implementada en JavaFX.
 
 ## Requisitos
 
-- Java Development Kit (JDK) versión 17 o superior
+- Java Development Kit (JDK) versión 11 o superior
 - JavaFX SDK
 
 ## Instalación
